@@ -19,7 +19,8 @@ A backup directory will be created in the "C:\Program Files\Nuix\Web Platform" d
 Simply follow the prompts on screen to uninstall all of the services, and decide which directories to backup before uninstalling. 
 
 ## Disclaimer
-I assume no responsibility or liability for any errors or problems that arise from the use of this script. The information and code contained in this repository is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness.  
+I assume no responsibility or liability for any errors or problems that arise from the use of this script. The information and code contained in this repository is provided on an “as is” basis with no guarantees of completeness, accuracy, usefulness or timeliness.
+  
 Please ensure this script is tested thoroughly in your environment before ever running on a production machine. 
 
 This is a personal project. This repository and the source code within is not endorsed by, directly affiliated with, authorized, or sponsored by Nuix. The use of the word "Nuix", the Nuix logo, and any other trademarks within this project are used for identification purposes only. 
